@@ -1,0 +1,12 @@
+# Ignore binary executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore IDE and temporary files
+.vscode/
+tempCodeRunnerFile*
+
+# Ignore external reference directory
+The-Ultimate-C-Programming-Course-main/
